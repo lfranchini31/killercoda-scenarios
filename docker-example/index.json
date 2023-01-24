@@ -9,12 +9,12 @@
         {
           "title": "Create and run a container",
           "text": "step1/text.md",
-          "verify": "verify.sh"
+          "verify": "step1/verify.sh"
         },
         {
           "title": "Stop and remove a container",
           "text": "step2/text.md",
-          "verify": "verify.sh"
+          "verify": "step2/verify.sh"
         }
       ],
       "finish": {
