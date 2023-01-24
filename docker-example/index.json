@@ -1,0 +1,25 @@
+{
+    "title": "Docker example",
+    "description": "Use docker to list all containers",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Create and run a container",
+          "text": "step1.md"
+        },
+        {
+          "title": "Stop and remove a container",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
