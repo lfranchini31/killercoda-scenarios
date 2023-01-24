@@ -8,11 +8,13 @@
       "steps": [
         {
           "title": "Create and run a container",
-          "text": "step1.md"
+          "text": "step1/text.md",
+          "verify": "verify.sh"
         },
         {
           "title": "Stop and remove a container",
-          "text": "step1.md"
+          "text": "step2/text.md",
+          "verify": "verify.sh"
         }
       ],
       "finish": {
